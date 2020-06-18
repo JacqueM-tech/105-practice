@@ -1,0 +1,14 @@
+Body {
+    background-color: paleturquoise;
+    text-align: center;
+    margin: 100px;
+}
+
+h4 {
+    font-size: large;
+    text-transform: uppercase;
+}
+a {
+    float: right;
+    
+}
